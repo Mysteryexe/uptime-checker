@@ -22,6 +22,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   links:
   - rel: stylesheet
-    href: /style.css
+    href: https://raw.githubusercontent.com/upptime/upptime/master/style.css
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
