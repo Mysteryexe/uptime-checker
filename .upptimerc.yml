@@ -30,6 +30,8 @@ status-website:
     content: "Mystery.exe | Upptime"
   - name: "twitter:image"
     content: "https://mysteryexe.xyz/embedUt.png"
+  - name: "twitter:card"
+    content: "summary_large_image"
   - name: "og:title"
     content: "Mystery.exe | Upptime"
   - name: "og:type"
