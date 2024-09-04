@@ -9,9 +9,9 @@
     --down-border-left-color: #eb3b5a;
     --down-background-color: #6b1020;
     --degraded-border-left-color: #f7b731;
-    --up-border-left-color: #20bf6b;
+    --up-border-left-color: #40c899e6;
     --tag-color: #002b29;
-    --tag-up-background-color: #20bf6b;
+    --tag-up-background-color: #40c899e6;
     --tag-down-background-color: #eb3b5a;
     --tag-degraded-background-color: #f7b731;
     --change-background-color: #f7b731;
@@ -21,7 +21,7 @@
     --submit-button-border-color: #1a46ad;
     --submit-button-background-color: #3867d6;
     --submit-button-color: #ffffff;
-    --graph-opacity: 0.85;
+    --graph-opacity: 0.5;
     --graph-filter: none
 }
 
@@ -70,7 +70,7 @@ a {
 article {
     padding: .75rem 1.25rem !important;
     position: relative;
-    border-radius: 1rem;
+    border-radius: 1rem !important;
     border: 1px solid !important
 }
 
@@ -100,15 +100,15 @@ h4 {
 }
 
 article.down {
-    border-left: .2rem solid !important
+    border-left: 1rem solid !important
 }
 
 article.degraded {
-    border-left: .2rem solid !important
+    border-left: 1rem solid !important
 }
 
 article.up {
-    border-left: .2rem solid !important
+    border-left: 1rem solid !important
 }
 
 .f {
