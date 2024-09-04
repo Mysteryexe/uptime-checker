@@ -1,7 +1,7 @@
 @font-face {
     font-family: google sans;
     font-display: swap;
-    src: url(/GoogleSans-Regular.woff2) format("woff2"),url(/GoogleSans-Regular.woff) format("woff");
+    src: url(https://raw.githubusercontent.com/upptime/upptime/master/GoogleSans-Regular.woff2) format("woff2"),url(https://raw.githubusercontent.com/upptime/upptime/master/GoogleSans-Regular.woff) format("woff");
     font-weight: 400;
     font-style: normal
 }
