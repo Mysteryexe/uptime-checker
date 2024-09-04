@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mysteryexe.xyz.ico",
     "slug": "mysteryexe",
     "status": "up",
-    "uptime": "96.55%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "96.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 619,
     "timeDay": 619,
     "timeWeek": 619,
     "timeMonth": 619,
     "timeYear": 619,
-    "dailyMinutesDown": {
-      "2024-09-04": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "POST to DRM",
