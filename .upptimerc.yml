@@ -5,12 +5,14 @@ repo: uptime-checker # The name of this repository
 sites:
   - name: Mysteryexe
     url: https://mysteryexe.xyz
+    
   - name: POST to DRM
     url: https://mysteryexe.xyz/drm.php?
     method: POST
     headers:
       - "Content-Type: application/json"
       - "User-Agent: uptimeRequest"
+      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
