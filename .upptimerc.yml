@@ -20,8 +20,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  links:
-  - rel: stylesheet
-    href: https://raw.githubusercontent.com/Mysteryexe/uptime-checker/master/style.css
+  themeUrl: https://example.com/style.css
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
