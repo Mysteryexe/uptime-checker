@@ -12,7 +12,7 @@ status-website:
   cname: uptime.mysteryexe.xyz
   # baseUrl: /uptime-checker
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Mystery Upptime
   introTitle: "**@Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: A page to see uptime of my webservers! by @Upptime, customized by @Mysteryexe
   navbar:
@@ -21,5 +21,32 @@ status-website:
     - title: Repo 
       href: https://github.com/$OWNER/$REPO
   themeUrl: https://uptime.mysteryexe.xyz/style.css
+  metaTags:
+  - name: "twitter:title"
+    content: "Mystery.exe | Upptime"
+  - name: "twitter:description"
+    content: "A page to see uptime of my webservers! by @Upptime, customized by @Mysteryexe"
+  - name: "twitter:card"
+    content: "Mystery.exe | Upptime"
+  - name: "twitter:image"
+    content: "https://mysteryexe.xyz/embedUt.png"
+  - name: "og:title"
+    content: "Mystery.exe | Upptime"
+  - name: "og:type"
+    content: "website"
+  - name: "og:image"
+    content: "https://mysteryexe.xyz/embedUt.png"
+  - name: "og:image:type"
+    content: "image/png"
+  - name: "og:image:width"
+    content: "1905"
+  - name: "og:image:height"
+    content: "807"
+  - name: "og:image:alt"
+    content: "Web image"
+  - name: "og:url"
+    content: "https://uptime.mysteryexe.xyz/"
+  - name: "og:site_name"
+    content: "❏❜ Mystery uptime"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
