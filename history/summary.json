@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mysteryexe.xyz.ico",
     "slug": "mysteryexe",
     "status": "down",
-    "uptime": "96.73%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "96.73%",
+    "uptime": "96.22%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "96.22%",
+    "uptimeYear": "96.22%",
     "time": 670,
     "timeDay": 683,
     "timeWeek": 670,
     "timeMonth": 670,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-09-05": 62
+      "2024-09-05": 72
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mysteryexe.xyz.ico",
     "slug": "post-to-drm",
     "status": "down",
-    "uptime": "96.46%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "96.46%",
+    "uptime": "95.91%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "95.91%",
     "time": 265,
     "timeDay": 266,
     "timeWeek": 265,
     "timeMonth": 265,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2024-09-05": 62
+      "2024-09-05": 72
     }
   }
 ]
