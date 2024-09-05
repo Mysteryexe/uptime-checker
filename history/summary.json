@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mysteryexe.xyz.ico",
     "slug": "mysteryexe",
     "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.54%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 790,
     "timeDay": 790,
     "timeWeek": 790,
     "timeMonth": 790,
     "timeYear": 790,
-    "dailyMinutesDown": {
-      "2024-09-04": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "POST to DRM",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mysteryexe.xyz.ico",
     "slug": "post-to-drm",
     "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "98.01%",
-    "uptimeYear": "98.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 283,
     "timeDay": 283,
     "timeWeek": 283,
     "timeMonth": 283,
     "timeYear": 283,
-    "dailyMinutesDown": {
-      "2024-09-04": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
