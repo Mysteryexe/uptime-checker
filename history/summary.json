@@ -4,19 +4,19 @@
     "url": "https://mysteryexe.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/mysteryexe.xyz.ico",
     "slug": "mysteryexe",
-    "status": "down",
-    "uptime": "96.54%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "96.54%",
-    "uptimeMonth": "96.54%",
-    "uptimeYear": "96.54%",
-    "time": 672,
-    "timeDay": 689,
-    "timeWeek": 672,
-    "timeMonth": 672,
-    "timeYear": 672,
+    "status": "up",
+    "uptime": "96.30%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "96.30%",
+    "uptimeYear": "96.30%",
+    "time": 670,
+    "timeDay": 686,
+    "timeWeek": 670,
+    "timeMonth": 670,
+    "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-09-05": 62
+      "2024-09-05": 66
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://mysteryexe.xyz/drm.php?",
     "icon": "https://icons.duckduckgo.com/ip3/mysteryexe.xyz.ico",
     "slug": "post-to-drm",
-    "status": "down",
-    "uptime": "96.25%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "96.25%",
-    "uptimeYear": "96.25%",
-    "time": 263,
-    "timeDay": 265,
-    "timeWeek": 263,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "status": "up",
+    "uptime": "95.99%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "95.99%",
+    "uptimeYear": "95.99%",
+    "time": 262,
+    "timeDay": 264,
+    "timeWeek": 262,
+    "timeMonth": 262,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2024-09-05": 62
+      "2024-09-05": 66
     }
   }
 ]
