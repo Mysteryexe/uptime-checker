@@ -9,7 +9,7 @@ sites:
   - name: POST to DRM
     url: https://mysteryexe.xyz/drm.php?
     method: POST
-    delay: 2000
+    delay: 2040
     headers:
       - "Content-Type: application/json"
       - "User-Agent: uptimeRequest"
