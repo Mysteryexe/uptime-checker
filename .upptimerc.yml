@@ -5,6 +5,12 @@ repo: uptime-checker # The name of this repository
 sites:
   - name: Mysteryexe
     url: https://mysteryexe.xyz
+
+  - name: azadehkhaki
+    url: https://azadehkhakighasr.ir/
+
+  - name: kohanzamin
+    url: https://kohanzamin.ir/
     
   - name: POST to DRM
     url: https://mysteryexe.xyz/drm.php?
